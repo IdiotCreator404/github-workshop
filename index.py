@@ -3,4 +3,8 @@
 # add ##Add files on the git 
 def greet():
     return "Hello world!"
+
+def farewell():
+    return "Good bye"
 print(greet())
+print(farewell())
